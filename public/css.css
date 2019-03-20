@@ -1,0 +1,44 @@
+body{
+    background-color: #141414;
+}
+label{
+    color: white
+}
+.section{
+    margin-top: 250px;
+}
+.section2{
+    margin-top: 1%;
+    margin-left: 39%;
+    margin-right: 39%;
+    width: 22%;
+}
+.nav{
+    background-color: black;
+    width: 310px;
+    height: 50px;
+    align-content: center;
+}
+.img{
+    height: 150px;
+    weight: 150px;
+}
+.img2{
+    height: 40px;
+    weight: 40px;
+}
+.img3{
+    height: 20px;
+    weight: 20px;
+}
+a{
+    color: white
+}
+#margen{
+    margin-left: 39%;
+    margin-right: 39%;
+     
+}
+.label{
+    align-content: left
+}
